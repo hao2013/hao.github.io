@@ -38,7 +38,7 @@
       <vue-timeline-update
         :date="new Date('2019-4')"
         title="同社サイト制作の部署に異動"
-        description="自社制作をしているWordPressテーマのテンプレートデザインとコーディングを担当しています。CMSテンプレート開発のプロジェクトに参加し、PhotoshopとIllustratorを操作しながら、コーディングのスキルも身に付けました。CMSテンプレート開発数NO.1でセクション別MVPを受賞しました。社会人2年目の仕事ぶり及び考え方について、ぜひこちらのブログで見てください。"
+        description="自社制作をしているWordPressテーマのテンプレートデザインとコーディングを担当しています。CMSテンプレート開発のプロジェクトに参加し、PhotoshopとIllustratorを操作しながら、コーディングのスキルも身に付けました。CMSテンプレート開発数No.1でセクション別MVPを受賞しました。社会人2年目の仕事ぶり及び考え方について、ぜひこちらのブログで見てください。"
         category="2年目"
         animation
         theme="light"

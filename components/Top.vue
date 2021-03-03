@@ -3,7 +3,7 @@
     <!-- MV -->
 
     <div id="mv_top" class="mv_top">
-      <h2 class="tit-h2">欢迎 / Wecome</h2>
+      <h2 class="tit-h2">欢迎 / Welcome</h2>
       <div class="tit-catch anim-typewriter">
         ようこそ 私のポートフォリオサイト
       </div>
