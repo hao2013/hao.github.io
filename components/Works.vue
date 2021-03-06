@@ -157,7 +157,7 @@
       <div class="works_img">
         <b-link
           class="works_link"
-          href="https://www.j-patrol.com/"
+          href="https://www.pharmacists-activity.net/"
           target="_blank"
         >
           <b-card no-body class="overflow-hidden border-success">
